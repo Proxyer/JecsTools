@@ -4,6 +4,7 @@
   <!-- Hediffs -->
 
   <ShieldFatigue.label>シールド損耗</ShieldFatigue.label>
+  <ShieldFatigue.description>シールド損耗</ShieldFatigue.description>
   <ShieldFatigue.stages.minor.label>少し</ShieldFatigue.stages.minor.label>
   <ShieldFatigue.stages.major.label>かなり</ShieldFatigue.stages.major.label>
   <ShieldFatigue.stages.severe.label>厳しい</ShieldFatigue.stages.severe.label>
